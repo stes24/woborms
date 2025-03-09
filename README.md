@@ -13,7 +13,7 @@ You can play the game [here](https://sapienzainteractivegraphicscourse.github.io
 - press **Q** once for first person camera, press again to switch back to third person view;
 - hold **spacebar** to charge up the shot (the more you press, the further the bullet will go); release it to shoot.
 After shooting, your turn ends and you can't act anymore. Some time after the projectile hits something or falls off the map, the next turn starts.\
-\
+<!--- --->
 More in-depth instructions can be found in the game.
 
 ### Known issues
