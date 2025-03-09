@@ -6,13 +6,14 @@ Some Worms games were created in a 3D setting (exclusively 3D levels instead of 
 The project uses **Three.js** and **Cannon.js**.
 
 ## How to play
-**IF THE GAME DOESN'T WORK WELL OR IS TOO SLOW, TRY TO OPEN IT IN ANOTHER BROWSER**\
+**IF THE GAME DOESN'T WORK WELL OR IS TOO SLOW, TRY TO OPEN IT IN ANOTHER BROWSER!**\
 You can play the game [here](https://sapienzainteractivegraphicscourse.github.io/final-project-stesb24/).
 - Use **WASD** or **arrow keys** to move around or take the aim when in first person view;
 - press **E** once to look from above, press again to go back to third person view;
 - press **Q** once for first person camera, press again to switch back to third person view;
 - hold **spacebar** to charge up the shot (the more you press, the further the bullet will go); release it to shoot.
 After shooting, your turn ends and you can't act anymore. Some time after the projectile hits something or falls off the map, the next turn starts.\
+\
 More in-depth instructions can be found in the game.
 
 ### Known issues
